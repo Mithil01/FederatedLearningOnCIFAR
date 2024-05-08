@@ -1,3 +1,15 @@
-setuptools
-pandas
+pandas 
+mlflow
 numpy
+matplotlib
+python-box==6.0.2
+pyYAML
+torch
+torchvision
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
